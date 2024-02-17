@@ -1,3 +1,3 @@
-# Combo_plus_IFNMG
+# Meu primeiro projeto
 
-Meu primeiro projeto realizado no Instituto Federal do Norte de Minas Gerais, envolvendo componentes de HTML e CSS.
+Template de catálogo, usando HTML5 e CSS3
